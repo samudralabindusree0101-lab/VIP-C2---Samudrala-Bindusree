@@ -50,7 +50,6 @@ The application also provides an Admin Dashboard for:
 /client
 /server
 /docs
-/screenshots
 
 ---
 
